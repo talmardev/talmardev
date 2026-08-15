@@ -15,4 +15,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talmardev&layout=compact&theme=dark)](https://github.com/talmardev)
+<img src="./profile/top-langs.svg" alt="Top Languages" />

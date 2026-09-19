@@ -10,3 +10,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=TalmarDEV&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=TalmarDEV&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=talmardev&langs_count=5&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=talmardev&langs_count=5&theme=dark_github)

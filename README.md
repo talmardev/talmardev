@@ -9,4 +9,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=TalmarDEV&theme=dark&hide_border=false)<br/>
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=talmardev&layout=compact&langs_count=7&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=talmardev&layout=compact&langs_count=7&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=talmardev&layout=compact&langs_count=5&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=talmardev&layout=compact&langs_count=5&theme=dark)
